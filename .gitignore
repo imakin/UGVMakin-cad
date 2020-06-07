@@ -1,0 +1,10 @@
+*.eps
+*.pdf
+*.obj
+*.mov
+*.mp4
+lib/
+*.FCStd1
+*.fcstd1
+*.stl
+
